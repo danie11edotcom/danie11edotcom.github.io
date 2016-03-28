@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Danielle Hill]({{ site.url }}/images/dh.jpg)
+![Danielle Hill]({{ site.url }}/images/dh.JPG)
 
 Hi, I'm Danielle! I am a web developer with interests in full stack development. I am currently learning Ruby and I have some experience with Python and Node.js as well. You can find me on line at the links below. Thanks for stopping by!
 
