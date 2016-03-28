@@ -19,7 +19,7 @@ Technology
 
 
 ## [Biblical Baby Names](https://github.com/danie11edotcom/bbnames)
-![Biblical baby names choropleth and time series]({{ site.url }}/images/bbnames.jpeg)
+![Biblical baby names choropleth and time series]({{ site.url }}/images/bbnames.jpg)
 Analysis of the use of Biblical baby names in the United States by state
 
 Technology  
