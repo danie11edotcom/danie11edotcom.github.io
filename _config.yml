@@ -13,8 +13,8 @@ url:              "http://danie11e.com"
 baseurl:          /
 
 author:
-  #name:           'Danielle Hill'
-  #url:            https://twitter.com/mdo
+  name:           Danielle Hill
+  url:            https://github.com/danie11edotcom
 
 paginate:         3
 
