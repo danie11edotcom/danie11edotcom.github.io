@@ -19,13 +19,21 @@ Having a clearly defined goal can anchor your efforts and give you a target towa
 
 Answering these four questions will give you the minimum amount of information needed to know what your goal is and measure progress along the way. My first goal in learning to code was a 100 Day Coding Streak. Here’s how I answered the four goal questions.
 
-1.  What am I going to accomplish?  Code 100 days in a row
+1.  What am I going to accomplish?  
 
-2.  When is my deadline?  100 days from day one
+    Code 100 days in a row
 
-3.  How will I measure success?  Track days coded on a calendar
+2.  When is my deadline?  
 
-4.  How will I achieve this goal?  Perform HTML and CSS coding exercises daily
+	  100 days from day one
+
+3.  How will I measure success?  
+
+	  Track days coded on a calendar
+
+4.  How will I achieve this goal?  
+
+	  Perform HTML and CSS coding exercises daily
 
 When I reached day 100 and completed my goal, I was ecstatic and felt a sense of accomplishment. What seemed like a difficult task turned into my first measurable achievement in coding. Reaching this goal also helped cement coding as my new hobby and a part of my daily life.
 
